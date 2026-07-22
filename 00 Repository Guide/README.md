@@ -12,10 +12,10 @@
 | Artifact Type | README |
 | Publication Order | 001 |
 | Version | 2.0 |
-| Status | Draft |
+| Status | Approved |
 | Owner | Repository Governance |
 | Repository Location | 00 Repository Guide |
-| Effective Date | Pending approval |
+| Effective Date | 2026-07-21 |
 | Review Cycle | As required |
 
 ---
