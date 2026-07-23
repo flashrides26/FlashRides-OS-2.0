@@ -1,4 +1,4 @@
-# Repository Architecture Backlog
+# Repository Architecture Register (RAR)
 
 ## Purpose
 
