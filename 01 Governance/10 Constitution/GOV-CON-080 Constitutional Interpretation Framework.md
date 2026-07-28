@@ -10,7 +10,7 @@
 | Title | Constitutional Interpretation Framework |
 | Artifact Type | Constitutional Artifact |
 | Publication Order | 080 |
-| Version | 1.1 |
+| Version | 1.2 |
 | Status | Approved Baseline |
 | Constitutional Authority | GOV-CON-001 — Organization Constitution |
 | Effective Date | 2026-07-27 |
@@ -42,7 +42,7 @@ The Constitutional Interpretation Framework governs constitutional interpretatio
 
 ## Constitutional Self-Interpretation
 
-The Constitution shall interpret itself.
+The Constitution shall interpret itself as the highest authority governing its own meaning.
 
 Constitutional meaning shall be derived from the Constitution's own language, purpose, constitutional responsibilities, architectural relationships, and governing principles rather than from personal preference, organizational convenience, or external opinion.
 
@@ -104,9 +104,9 @@ Interpretation serves not only to resolve uncertainty but also to promote clarit
 
 ---
 
-## Constitutional Interpretation Sequence
+## Constitutional Methodology
 
-Constitutional interpretation shall proceed according to the following principles:
+Constitutional interpretation shall proceed according to the following methodology:
 
 ### Plain Constitutional Meaning
 
@@ -280,16 +280,19 @@ Responsibilities assigned to other constitutional artifacts shall not be duplica
 
 # 7. Navigation
 
-The Constitutional Interpretation Framework follows the Governance Framework and serves as the constitutional artifact defining how constitutional meaning is faithfully determined.
+The Constitutional Interpretation Framework follows the Guiding Principles and serves as the constitutional artifact defining how constitutional meaning is faithfully determined.
 
 Readers seeking to understand constitutional terminology should continue to the Constitutional Glossary.
 
-Readers seeking to understand how constitutional meaning is applied in organizational judgment should proceed to the Constitutional Decision Framework.
+Readers seeking to understand how constitutional meaning informs organizational judgment should continue to the Constitutional Decision Framework.
+
+Readers seeking to understand how constitutional authority is exercised should continue to the Governance Framework.
 
 Additional constitutional guidance is provided through the following constitutional artifacts:
 
 - Constitutional Glossary
 - Constitutional Decision Framework
+- Governance Framework
 - Constitutional Amendment Framework
 
 Together, these constitutional artifacts form a unified constitutional framework defining the identity, purpose, aspiration, character, truth, leadership philosophy, constitutional interpretation, constitutional methodology, governance, stewardship, and constitutional evolution of FlashRides.
