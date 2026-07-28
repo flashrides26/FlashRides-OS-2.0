@@ -10,10 +10,10 @@
 | Title | Constitutional Decision Framework |
 | Artifact Type | Constitutional Artifact |
 | Publication Order | 100 |
-| Version | 1.0 |
+| Version | 1.1 |
 | Status | Approved Baseline |
 | Constitutional Authority | GOV-CON-001 — Organization Constitution |
-| Effective Date | 2026-07-27 |
+| Effective Date | 2026-07-28 |
 | Review Cycle | Periodic Constitutional Review |
 
 ---
@@ -32,9 +32,9 @@ The framework promotes consistency, transparency, stewardship, and organizationa
 
 The Constitutional Decision Framework is the authoritative constitutional artifact defining the required methodology for exercising constitutional judgment.
 
-It derives its authority from the Organization Constitution and shall remain consistent with the constitutional identity, purpose, philosophy, and governance established therein.
+It derives its authority from the Organization Constitution and shall remain consistent with the constitutional identity, purpose, philosophy, interpretation, governance, and constitutional language established therein.
 
-The Constitutional Decision Framework governs the order in which constitutional considerations are evaluated but does not replace leadership responsibility, discernment, or accountability.
+The Constitutional Decision Framework governs the order in which constitutional considerations are evaluated but does not replace constitutional interpretation, leadership responsibility, discernment, or accountability.
 
 ---
 
@@ -56,7 +56,7 @@ No stage may invalidate or bypass a preceding stage.
 
 ### Purpose
 
-Determine whether the proposed decision is consistent with the Constitution and its subordinate constitutional artifacts.
+Determine whether the proposed decision is consistent with the Constitution, as faithfully understood through the Constitutional Interpretation Framework.
 
 Options that conflict with the Constitution shall not proceed to subsequent stages.
 
@@ -120,7 +120,7 @@ The framework is intended to guide judgment rather than replace thoughtful leade
 
 The Constitutional Decision Framework derives its authority from the Organization Constitution and exists as a subordinate constitutional artifact.
 
-While the Constitution establishes organizational authority and governance, the Constitutional Decision Framework establishes the methodology through which constitutional judgment is exercised.
+While the Constitution establishes organizational authority, the Constitutional Decision Framework establishes the methodology through which constitutional judgment is exercised.
 
 ---
 
@@ -164,9 +164,27 @@ The Constitutional Decision Framework provides the constitutional methodology th
 
 ---
 
+## Relationship to the Constitutional Interpretation Framework
+
+The Constitutional Interpretation Framework governs how constitutional meaning is faithfully determined.
+
+The Constitutional Decision Framework applies that constitutional meaning through organizational judgment.
+
+---
+
+## Relationship to the Constitutional Glossary
+
+The Constitutional Glossary defines the authoritative constitutional terminology used throughout the Constitution.
+
+The Constitutional Decision Framework relies upon that shared constitutional vocabulary to preserve clarity and consistency in constitutional judgment.
+
+---
+
 ## Relationship to the Governance Framework
 
-The Governance Framework establishes the organizational structures through which constitutional decisions are implemented, delegated, and stewarded.
+The Governance Framework establishes how constitutional authority is exercised, delegated, and stewarded.
+
+The Constitutional Decision Framework provides the methodology through which that authority is faithfully exercised when making significant organizational decisions.
 
 ---
 
@@ -174,7 +192,7 @@ The Governance Framework establishes the organizational structures through which
 
 Each constitutional artifact has one primary constitutional responsibility and serves as the authoritative source for that responsibility.
 
-Together, the constitutional artifacts provide a coherent constitutional framework defining the identity, purpose, aspiration, character, truth, leadership philosophy, constitutional methodology, and governance of FlashRides while avoiding unnecessary duplication.
+Together, the constitutional artifacts provide a complete and coherent framework defining the identity, purpose, aspiration, character, truth, leadership philosophy, constitutional interpretation, constitutional language, constitutional methodology, governance, and constitutional evolution of FlashRides while avoiding unnecessary duplication.
 
 ---
 
@@ -208,7 +226,7 @@ Changes should occur only when necessary to preserve constitutional consistency 
 
 Any modification to the Constitutional Decision Framework shall occur exclusively through the Constitutional Amendment Framework.
 
-Constitutional evolution should be deliberate, infrequent, and consistent with the identity, purpose, philosophy, and governance established by the Organization Constitution.
+Constitutional evolution should be deliberate, infrequent, and consistent with the identity, purpose, philosophy, interpretation, governance, and constitutional language established by the Organization Constitution.
 
 ---
 
@@ -222,7 +240,11 @@ Responsibilities assigned to other constitutional artifacts shall not be duplica
 
 # 7. Navigation
 
-The Constitutional Decision Framework follows the Guiding Principles and serves as the constitutional artifact defining the methodology for constitutional judgment.
+The Constitutional Decision Framework follows the Constitutional Glossary and serves as the constitutional artifact defining the methodology for constitutional judgment.
+
+Readers seeking to understand the constitutional meaning that informs organizational judgment should refer to the Constitutional Interpretation Framework.
+
+Readers seeking to understand the constitutional terminology used throughout the Constitution should refer to the Constitutional Glossary.
 
 Readers seeking to understand the enduring philosophy that informs constitutional judgment should refer to the Guiding Principles.
 
@@ -231,9 +253,8 @@ Readers seeking to understand how constitutional authority is exercised and stew
 Additional constitutional guidance is provided through the following constitutional artifacts:
 
 - Governance Framework
-- Constitutional Glossary
 - Constitutional Amendment Framework
 
-Together, these constitutional artifacts form a unified constitutional framework defining the identity, purpose, aspiration, character, truth, leadership philosophy, constitutional methodology, and governance of FlashRides.
+Together, these constitutional artifacts form a unified constitutional framework defining the identity, purpose, aspiration, character, truth, leadership philosophy, constitutional interpretation, constitutional language, constitutional methodology, governance, stewardship, and constitutional evolution of FlashRides.
 
 ---
