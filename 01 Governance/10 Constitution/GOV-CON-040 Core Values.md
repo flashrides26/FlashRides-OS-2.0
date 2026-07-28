@@ -1,61 +1,64 @@
 # GOV-CON-040 — Core Values
 
-**Document ID:** GOV-CON-040  
-**Document Type:** Constitutional Governance  
-**Classification:** Constitutional  
-**Status:** Provisionally Complete  
-**Owner:** FlashRides Constitutional Repository
+---
+
+## Artifact Information
+
+| Field | Value |
+|---|---|
+| Artifact ID | GOV-CON-040 |
+| Title | Core Values |
+| Artifact Type | Constitutional Artifact |
+| Publication Order | 040 |
+| Version | 1.1 |
+| Status | Approved Baseline |
+| Constitutional Authority | GOV-CON-001 — Organization Constitution |
+| Effective Date | 2026-07-27 |
+| Review Cycle | Periodic Constitutional Review |
 
 ---
 
 # 1. Purpose
 
-The Core Values define the indispensable characteristics of personal character expected of every member of FlashRides, regardless of position or responsibility. These values are constitutional roots rather than behavioral expressions. They describe who we must become in order to faithfully fulfill the FlashRides Mission.
+The Core Values define the enduring characteristics of personal character expected of every member of FlashRides, regardless of position, responsibility, or circumstance.
 
-The purpose of the Core Values is not merely to guide behavior, but to cultivate constitutional character. When consistently embodied, these values naturally produce trust, faithful stewardship, meaningful relationships, and positive influence.
+These values are constitutional roots rather than behavioral expressions. They define who members of FlashRides are expected to become in order to faithfully fulfill the Mission.
+
+The purpose of the Core Values is not merely to guide behavior, but to cultivate constitutional character from which trustworthy leadership, meaningful relationships, faithful stewardship, and organizational excellence naturally grow.
 
 ---
 
-# 2. Constitutional Definition
+# 2. Constitutional Responsibility
 
-A **Core Value** is an indispensable characteristic of personal character that every member of FlashRides is expected to embody.
+The Core Values are the authoritative constitutional artifact defining the enduring character expected of every member of FlashRides.
+
+They derive their authority from the Organization Constitution and shall remain consistent with the constitutional identity, purpose, and governance established therein.
+
+The Core Values establish the constitutional roots from which behaviors, leadership, organizational culture, and operational practices naturally develop.
+
+---
+
+# 3. Constitutional Character
+
+A Core Value is an indispensable characteristic of personal character expected of every member of FlashRides.
 
 Core Values are:
 
 - Position-independent
 - Role-independent
 - Circumstance-independent
+- Enduring
+- Foundational
 
-They are constitutional roots from which behaviors, practices, leadership, and organizational culture naturally grow.
+They define constitutional character rather than observable behavior.
 
-Observable behaviors are expressions (branches) of the Core Values and are documented separately from the constitutional roots themselves.
-
----
-
-# 3. Constitutional Discovery
-
-The Core Values contained in this document were not selected because they were desirable organizational traits.
-
-They were recognized through constitutional discovery.
-
-A characteristic may be recognized as a Core Value only after satisfying the Constitutional Proof Method.
-
-Each candidate must demonstrate that it:
-
-- Is indispensable to the faithful fulfillment of the Mission.
-- Represents a constitutional root rather than an observable behavior.
-- Applies equally to every member of FlashRides regardless of position.
-- Contributes a unique constitutional dimension not already supplied by another Core Value.
-- Produces identifiable branches that naturally emerge in practice.
-- Demonstrates constitutional failure when absent.
-
-Only characteristics satisfying these requirements may be recognized as constitutional roots.
+Behaviors, competencies, habits, and practices are expressions of these Core Values rather than the values themselves.
 
 ---
 
-# 4. Constitutional Roots
+# 4. Core Values
 
-## 4.1 Faithful Care
+## Faithful Care
 
 ### Definition
 
@@ -67,7 +70,7 @@ Faithful Care answers the constitutional question:
 
 ---
 
-## 4.2 Integrity
+## Integrity
 
 ### Definition
 
@@ -79,7 +82,7 @@ Integrity answers the constitutional question:
 
 ---
 
-## 4.3 Vigilance
+## Vigilance
 
 ### Definition
 
@@ -93,7 +96,7 @@ Vigilance answers the constitutional question:
 
 # 5. Constitutional Relationship
 
-The Core Values function as **co-equal constitutional roots**.
+The Core Values function as co-equal constitutional roots.
 
 No Core Value is subordinate to another.
 
@@ -101,19 +104,19 @@ No individual Core Value is sufficient by itself.
 
 Together they define the constitutional character expected of every member of FlashRides.
 
-When consistently embodied, these Core Values naturally produce trust, which forms the relational foundation upon which the FlashRides Mission is fulfilled.
+When consistently embodied, these Core Values naturally produce trust, which becomes the relational foundation upon which the FlashRides Mission is fulfilled.
 
-Trust is **not** a Core Value.
+Trust is not itself a Core Value.
 
-Trust is the natural consequence of consistently lived constitutional character.
+Rather, trust is the natural consequence of consistently lived constitutional character.
 
 ---
 
-# 6. Constitutional Branches
+# 6. Constitutional Expressions
 
-The Core Values identified in this document are constitutional roots.
+The Core Values are constitutional roots.
 
-Observable characteristics such as attitudes, behaviors, competencies, habits, and practices are constitutional branches that grow from these roots.
+Observable characteristics such as attitudes, behaviors, competencies, habits, and practices are constitutional expressions that naturally grow from those roots.
 
 Examples include, but are not limited to:
 
@@ -126,34 +129,122 @@ Examples include, but are not limited to:
 - Risk Anticipation
 - Accountability in Practice
 
-These branches are not Core Values themselves and shall be defined within future constitutional and operational documents.
+These expressions illustrate how constitutional character becomes visible through everyday conduct but do not replace or redefine the Core Values themselves.
 
 ---
 
-# 7. Constitutional Status
+# 7. Relationship to Other Constitutional Artifacts
 
-This document is considered **Provisionally Complete**.
+## Relationship to the Organization Constitution
 
-The Core Values identified herein represent the constitutional roots currently recognized through constitutional discovery.
+The Core Values derive their authority from the Organization Constitution and exist as subordinate constitutional artifacts.
 
-FlashRides does not establish Core Values to satisfy an expected quantity or organizational preference.
-
-Additional Core Values shall be recognized only when constitutional evidence demonstrates that a newly discovered characteristic:
-
-- Is an indispensable constitutional root,
-- Is not already explained by the existing Core Values, and
-- Successfully satisfies the Constitutional Proof Method.
-
-Until such evidence exists, this document shall be considered constitutionally complete.
+While the Constitution establishes the identity, authority, and governance of FlashRides, the Core Values define the enduring character expected of every member of the organization.
 
 ---
 
-# Constitutional Summary
+## Relationship to the Mission Statement
 
-| Core Value | Constitutional Question |
-|------------|-------------------------|
-| Faithful Care | **Why do I serve?** |
-| Integrity | **How do I conduct myself?** |
-| Vigilance | **What must I continually attend to?** |
+The Mission explains why FlashRides exists.
 
-Together, these co-equal constitutional roots define the character required to faithfully fulfill the FlashRides Mission.
+The Core Values define the character required to faithfully fulfill that Mission.
+
+---
+
+## Relationship to the Vision Statement
+
+The Vision describes what FlashRides aspires to become.
+
+The Core Values define the enduring character required while pursuing that Vision.
+
+---
+
+## Relationship to the Organizational Axioms
+
+The Organizational Axioms preserve the timeless truths that guide how FlashRides understands and applies its Core Values.
+
+The Axioms support the Core Values without redefining them.
+
+---
+
+## Relationship to the Guiding Principles
+
+The Guiding Principles provide enduring guidance for applying the Core Values in leadership, decision-making, and organizational conduct.
+
+---
+
+## Relationship to the Governance Framework
+
+The Governance Framework establishes the structures and responsibilities that help preserve and reinforce the Core Values throughout the organization.
+
+---
+
+## Constitutional Integrity
+
+Each constitutional artifact has one primary constitutional responsibility and serves as the authoritative source for that responsibility.
+
+Together, the constitutional artifacts provide a complete and coherent framework defining the identity, purpose, aspiration, character, philosophy, values, leadership, and governance of FlashRides while avoiding unnecessary duplication.
+
+---
+
+# 8. Maintenance
+
+## Purpose
+
+The Core Values shall be maintained as the authoritative constitutional artifact defining the enduring character expected of every member of FlashRides.
+
+---
+
+## Stewardship
+
+The Core Values shall be maintained under the authority of the Organization Constitution.
+
+The Organization Owner retains constitutional authority over the Core Values, while the Organization Steward is responsible for preserving their clarity, integrity, and consistency within the constitutional framework.
+
+---
+
+## Review
+
+The Core Values should be reviewed periodically to confirm they continue to faithfully express the enduring constitutional character of FlashRides.
+
+Periodic review does not imply revision.
+
+Changes should occur only when necessary to preserve constitutional consistency.
+
+---
+
+## Constitutional Evolution
+
+Any modification to the Core Values shall occur exclusively through the Constitutional Amendment Framework.
+
+Constitutional evolution should be deliberate, infrequent, and consistent with the identity, purpose, and philosophy established by the Organization Constitution.
+
+---
+
+## Constitutional Integrity
+
+The Core Values shall remain timeless, foundational, and focused exclusively on defining constitutional character.
+
+Responsibilities assigned to other constitutional artifacts shall not be duplicated within the Core Values.
+
+---
+
+# 9. Navigation
+
+The Core Values follow the Vision Statement and serve as the constitutional artifact defining the enduring character expected of every member of FlashRides.
+
+Readers seeking to understand why FlashRides exists should refer to the Mission Statement.
+
+Readers seeking to understand what FlashRides aspires to become should refer to the Vision Statement.
+
+Readers seeking to understand the enduring truths that guide the application of these values should continue to the Organizational Axioms.
+
+Additional constitutional guidance is provided through the following constitutional artifacts:
+
+- Organizational Axioms
+- Guiding Principles
+- Governance Framework
+
+Together, these constitutional artifacts form a unified constitutional framework that defines the identity, purpose, aspiration, character, philosophy, values, leadership, and governance of FlashRides.
+
+---
