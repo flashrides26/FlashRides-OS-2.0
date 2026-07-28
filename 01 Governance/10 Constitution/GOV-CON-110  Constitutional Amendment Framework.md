@@ -6,7 +6,7 @@
 
 | Field | Value |
 |---|---|
-| Artifact ID | GOV-CON-090 |
+| Artifact ID | GOV-CON-110 |
 | Title | Constitutional Amendment Framework |
 | Artifact Type | Constitutional Governance |
 | Publication Order | 090 |
