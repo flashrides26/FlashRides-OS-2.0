@@ -2,78 +2,47 @@
 
 ---
 
-# Purpose
+## Purpose
 
-The FlashRides Governance Constitution establishes the enduring constitutional framework governing the organization.
+The FlashRides Governance Constitution establishes the constitutional foundation of governance for FlashRides.
 
-It defines the foundational principles, authority, philosophy, methodology, and governance through which FlashRides fulfills its Mission, pursues its Vision, exercises leadership, and evolves over time.
+It defines the enduring principles, authority, philosophy, methodology, and governance through which the organization is directed, decisions are made, authority is exercised, and constitutional evolution occurs.
 
-The Constitution serves as the highest governing authority of FlashRides. Every constitutional artifact derives its authority from the Organization Constitution, and every derivative artifact derives its authority from one or more constitutional artifacts.
-
-Together, these artifacts form a single, coherent constitutional system that preserves organizational consistency, accountability, and long-term stewardship.
+The Constitution serves as the highest governing authority within the FlashRides Governance domain. All governance artifacts derive their authority, directly or indirectly, from the constitutional framework established herein.
 
 ---
 
-# Constitutional Philosophy
+## Scope
 
-The FlashRides Governance Constitution is founded upon several enduring constitutional principles.
+This directory contains the constitutional layer of the FlashRides Governance System.
 
-- The Constitution establishes the organization's highest governing authority.
-- Every constitutional artifact possesses one primary constitutional responsibility.
-- Every constitutional artifact answers one governing constitutional question.
-- Constitutional artifacts define enduring principles rather than operational implementation.
-- Organizational authority flows from the Constitution to derivative governance artifacts.
-- Constitutional interpretation precedes constitutional judgment.
-- Constitutional judgment precedes the exercise of constitutional authority.
-- Constitutional amendment occurs only through the Constitutional Amendment Framework.
-- Constitutional evolution preserves continuity while allowing deliberate organizational growth.
+The constitutional artifacts define enduring governance principles and responsibilities. They are intentionally stable, implementation-independent, and designed to remain applicable throughout the long-term evolution of the organization.
 
-These principles provide the architectural foundation upon which the Governance Constitution is built.
+Operational policies, standards, procedures, and other derivative governance artifacts are maintained elsewhere within the Governance domain and implement the constitutional direction established by these artifacts.
 
 ---
 
-# Constitutional Architecture
+## Constitutional Architecture
 
-The constitutional artifacts are organized as an integrated system in which each artifact fulfills a unique constitutional responsibility.
+The Constitution is organized as a collection of constitutional artifacts.
 
-The architecture progresses from constitutional authority through organizational identity, leadership philosophy, interpretation, judgment, governance, and constitutional evolution.
+Each constitutional artifact:
 
-```text
-Organization Constitution
-            │
-            ▼
-Mission
-Vision
-Core Values
-Organizational Axioms
-Guiding Principles
-            │
-            ▼
-Constitutional Interpretation
-            │
-            ▼
-Constitutional Language
-            │
-            ▼
-Constitutional Judgment
-            │
-            ▼
-Governance
-            │
-            ▼
-Constitutional Amendment
-```
+- has one primary constitutional responsibility;
+- answers one governing constitutional question;
+- serves as the authoritative source for that constitutional responsibility; and
+- derives its authority from the Organization Constitution.
 
-Each constitutional artifact builds upon those preceding it while remaining the sole authoritative source for its constitutional responsibility.
+Together, the constitutional artifacts form a coherent constitutional framework governing FlashRides.
 
 ---
 
-# Constitutional Publication Order
+## Constitutional Publication Order
 
-The constitutional artifacts should generally be read in publication order.
+The constitutional artifacts are intended to be read in publication order.
 
-| Order | Constitutional Artifact | Constitutional Responsibility |
-|------:|-------------------------|-------------------------------|
+| Order | Artifact | Primary Responsibility |
+|------:|----------|------------------------|
 | 001 | Organization Constitution | Constitutional Authority |
 | 020 | Mission Statement | Organizational Purpose |
 | 030 | Vision Statement | Organizational Aspiration |
@@ -81,75 +50,60 @@ The constitutional artifacts should generally be read in publication order.
 | 050 | Organizational Axioms | Enduring Truth |
 | 060 | Guiding Principles | Leadership Philosophy |
 | 070 | Governance Framework | Exercise of Constitutional Authority |
-| 080 | Constitutional Interpretation Framework | Constitutional Meaning |
+| 080 | Constitutional Interpretation Framework | Constitutional Interpretation |
 | 090 | Constitutional Glossary | Constitutional Language |
 | 100 | Constitutional Decision Framework | Constitutional Judgment |
 | 110 | Constitutional Amendment Framework | Constitutional Evolution |
 
 ---
 
-# Constitutional Principles
+## Reading the Constitution
 
-The Governance Constitution is designed to remain stable, coherent, and maintainable over time.
+Readers unfamiliar with the Governance Constitution should begin with the Organization Constitution and continue through the constitutional artifacts in publication order.
 
-Accordingly:
+Each artifact builds upon the constitutional foundation established by the preceding artifacts while remaining responsible for one distinct aspect of constitutional governance.
 
-- constitutional artifacts remain timeless;
-- operational implementation belongs within derivative artifacts;
-- historical decisions belong within governance memoranda and related governance records;
-- constitutional responsibilities are never duplicated across artifacts;
-- organizational governance shall remain consistent with the Constitution.
-
-These principles preserve constitutional clarity while allowing the organization to evolve through deliberate constitutional amendment.
+Readers seeking a specific constitutional topic should consult the Constitutional Index.
 
 ---
 
-# Using the Constitution
+## Constitutional Principles
 
-The Constitution should be consulted whenever constitutional authority, organizational philosophy, leadership judgment, governance, or constitutional interpretation is required.
+The Governance Constitution is founded upon several enduring architectural principles.
 
-When applying the Constitution:
+- Constitutional authority is established by the Organization Constitution.
+- Constitutional meaning is determined through the Constitutional Interpretation Framework.
+- Constitutional language is defined by the Constitutional Glossary.
+- Constitutional judgment is exercised through the Constitutional Decision Framework.
+- Constitutional authority is exercised through the Governance Framework.
+- Constitutional authority is modified only through the Constitutional Amendment Framework.
 
-1. Determine constitutional meaning through the Constitutional Interpretation Framework.
-2. Apply constitutional terminology using the Constitutional Glossary.
-3. Exercise organizational judgment through the Constitutional Decision Framework.
-4. Exercise constitutional authority through the Governance Framework.
-5. Modify constitutional authority only through the Constitutional Amendment Framework.
-
-Derivative governance artifacts shall faithfully implement constitutional direction without creating independent constitutional authority.
-
----
-
-# Constitutional Stewardship
-
-The Organization Owner retains ultimate constitutional authority over the Governance Constitution.
-
-The Organization Steward is responsible for preserving the clarity, consistency, integrity, and organization of the constitutional framework under that authority.
-
-Constitutional stewardship emphasizes faithful preservation rather than continual modification.
-
-The Constitution should evolve deliberately, infrequently, and only through the Constitutional Amendment Framework.
+These constitutional responsibilities remain intentionally distinct to preserve constitutional clarity, consistency, and long-term maintainability.
 
 ---
 
-# Repository Organization
+## Directory Contents
 
-The FlashRides Governance Constitution serves as the constitutional layer of the organization's governance system.
+This directory contains:
 
-Beneath the constitutional layer are derivative governance artifacts that implement constitutional direction through policies, standards, procedures, operational guidance, templates, and other supporting governance documentation.
+- Constitutional Artifacts
+- Constitutional Index
+- Constitutional Changelog
+- This README
 
-Derivative artifacts remain subordinate to the Constitution and shall not conflict with constitutional authority.
+Together, these documents constitute the published constitutional layer of the FlashRides Governance System.
 
 ---
 
-# Navigation
+## Navigation
 
-The constitutional artifacts are intended to be read sequentially.
+| Document | Purpose |
+|----------|---------|
+| **010 – README** | Introduces the Governance Constitution |
+| **020 – INDEX** | Directory and navigation of constitutional artifacts |
+| **030 – CHANGELOG** | Historical record of constitutional amendments |
+| **Constitutional Artifacts** | The governing constitutional documents |
 
-Readers beginning their study of the Constitution should continue to the Organization Constitution.
-
-Readers seeking a specific constitutional artifact should consult the Constitutional Index.
-
-Together, the README, Constitutional Index, and constitutional artifacts provide a complete framework for understanding and applying the governance of FlashRides.
+For governance implementation, refer to the remaining sections of the Governance repository.
 
 ---
