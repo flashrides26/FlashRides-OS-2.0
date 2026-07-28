@@ -6,13 +6,13 @@
 
 **Artifact ID:** GOV-CON-001
 
-**Version:** 1.0
+**Version:** 1.1
 
 **Status:** Approved Baseline
 
 **Constitutional Status:** Foundational
 
-**Effective Date:** July 21, 2026
+**Effective Date:** July 27, 2026
 
 **Owner:** Organization Owner
 
@@ -28,7 +28,7 @@ It establishes the enduring constitutional foundation of FlashRides by defining 
 
 The Constitution preserves the organization's identity while providing a stable framework from which governance, operations, and future organizational growth derive their authority.
 
-The Constitution is intended to remain stable across time while allowing the organization to evolve through deliberate constitutional governance.
+The Constitution provides stable governance while allowing the organization to evolve through deliberate constitutional governance.
 
 ---
 
@@ -119,19 +119,17 @@ Stewardship protects the organization's constitutional identity by ensuring that
 
 ---
 
-# 8. Amendments
+# 8. Constitutional Evolution
 
 The Organization Constitution is intended to provide long-term stability while remaining capable of deliberate organizational evolution.
 
-Amendments shall occur only through an approved constitutional governance process.
+Constitutional evolution shall occur exclusively through the Constitutional Amendment Framework established by FlashRides constitutional governance.
 
-Proposed amendments shall preserve the integrity, coherence, and constitutional intent of the Constitution while considering their impact upon the organization, the constitutional hierarchy, subordinate artifacts, and the long-term interests of FlashRides.
+Amendments shall preserve the integrity, coherence, authority, and long-term effectiveness of the Constitution while supporting the deliberate evolution of the organization.
 
-Constitutional amendments shall be thoughtful, deliberate, and infrequent.
+No constitutional amendment shall diminish the foundational authority established by this Constitution.
 
-No amendment shall diminish the constitutional authority or foundational principles established by this Constitution.
-
-Approved amendments become part of the Constitution and shall be reflected within affected governance and operational artifacts as necessary.
+Upon ratification of an amendment, the Constitutional Amendment Framework shall govern implementation and restoration of constitutional consistency throughout the constitutional ecosystem.
 
 ---
 
@@ -139,7 +137,7 @@ Approved amendments become part of the Constitution and shall be reflected withi
 
 The Organization Constitution serves as the foundational governing artifact of the FlashRides Constitution.
 
-The constitutional framework established by this Constitution is supported by subordinate constitutional artifacts, each of which serves a distinct and authoritative purpose.
+The constitutional framework established by this Constitution is supported by subordinate constitutional artifacts, each of which serves a distinct and authoritative responsibility.
 
 These artifacts include:
 
@@ -149,7 +147,7 @@ These artifacts include:
 - Guiding Principles
 - Governance Framework
 
-Each constitutional artifact is the single authoritative source for its respective subject and shall not duplicate or replace another constitutional artifact.
+Each constitutional artifact is the single authoritative source for its respective constitutional responsibility and shall not duplicate or replace another constitutional artifact.
 
 Collectively, the constitutional artifacts define the enduring identity, purpose, values, governance, and guiding philosophy of FlashRides.
 
@@ -167,9 +165,9 @@ The Constitution shall be reviewed periodically to confirm its continued relevan
 
 Routine reviews shall not imply or require constitutional amendment.
 
-Amendments shall occur only when necessary to reflect deliberate organizational evolution in accordance with the approved constitutional governance process.
+Constitutional evolution shall occur only through the Constitutional Amendment Framework.
 
-Following approval of any constitutional amendment, affected governance and operational artifacts shall be reviewed to ensure continued alignment with the constitutional framework.
+Following ratification of any constitutional amendment, affected constitutional, governance, and operational artifacts shall be reviewed and updated as necessary to restore constitutional consistency throughout the constitutional ecosystem.
 
 The Organization Constitution shall remain concise, internally consistent, and free from duplication with subordinate constitutional artifacts.
 
@@ -198,3 +196,5 @@ Readers should continue through the remaining constitutional artifacts in the fo
 5. 060 — Governance Framework
 
 Together, these artifacts constitute the complete constitutional framework of FlashRides and should be read as a unified body of organizational governance.
+
+---
