@@ -1,68 +1,72 @@
 # GOV-CON-070 — Governance Framework
 
-**Status:** Version 1.0 (Provisionally Complete)  
-**Classification:** Governance Constitution  
-**Authority:** FlashRides Constitution
+---
+
+## Artifact Information
+
+| Field | Value |
+|---|---|
+| Artifact ID | GOV-CON-070 |
+| Title | Governance Framework |
+| Artifact Type | Constitutional Artifact |
+| Publication Order | 070 |
+| Version | 1.1 |
+| Status | Approved Baseline |
+| Constitutional Authority | GOV-CON-001 — Organization Constitution |
+| Effective Date | 2026-07-27 |
+| Review Cycle | Periodic Constitutional Review |
 
 ---
 
-# Purpose
+# 1. Purpose
 
-The Governance Framework establishes how constitutional authority is exercised, delegated, and stewarded throughout FlashRides. It ensures that every exercise of organizational authority remains faithful to the Constitution, accountable to its stewardship, and directed toward the fulfillment of the Mission.
+The Governance Framework establishes how constitutional authority is exercised, delegated, and stewarded throughout FlashRides.
 
----
+It preserves the constitutional structure through which authority remains accountable to the Constitution while enabling faithful leadership, responsible stewardship, and organizational integrity.
 
-# Discovery
-
-The Constitution establishes the organization's purpose, direction, character, truths, and decision model.
-
-A governance framework is therefore required to define how constitutional authority is exercised throughout the organization without compromising constitutional integrity.
-
-Governance exists to ensure that authority serves the Constitution rather than replacing it.
+The Governance Framework exists to ensure that authority always serves the Constitution rather than replacing it.
 
 ---
 
-# Constitutional Question
+# 2. Constitutional Responsibility
 
-> **How shall constitutional authority be exercised, delegated, and stewarded throughout FlashRides?**
+The Governance Framework is the authoritative constitutional artifact defining how constitutional authority is exercised, delegated, and stewarded throughout FlashRides.
 
----
+It derives its authority from the Organization Constitution and shall remain consistent with the constitutional identity, purpose, philosophy, and governance established therein.
 
-# Constitutional Definition
-
-The Governance Framework establishes the constitutional structure through which authority is delegated, responsibility is exercised, accountability is maintained, and constitutional stewardship is preserved throughout the organization.
+The Governance Framework establishes the constitutional philosophy of governance without prescribing organizational charts, reporting structures, or operational procedures.
 
 ---
 
-# Constitutional Governance
+# 3. Governance Framework
 
 ## Constitutional Authority
 
-All organizational authority derives from the FlashRides Constitution.
+All organizational authority derives from the Organization Constitution.
 
-No individual, position, committee, department, policy, or operational procedure possesses authority independent of the Constitution.
+No individual, office, committee, department, policy, or operational procedure possesses authority independent of the Constitution.
+
+The Constitution remains the supreme governing authority of FlashRides.
 
 ---
 
 ## Delegated Stewardship
 
-Constitutional authority shall be delegated through successive levels of stewardship.
+Constitutional authority shall be exercised through delegated stewardship.
 
-Each steward receives the authority necessary to fulfill their constitutional responsibilities while remaining accountable for the faithful exercise of that authority.
+Each steward receives the authority necessary to fulfill assigned constitutional responsibilities while remaining accountable for the faithful exercise of that authority.
 
-Delegation never removes accountability.
+Delegation never transfers or diminishes accountability.
 
 ---
 
 ## Reciprocal Communication
 
-Authority is exercised downward through delegated stewardship.
+Authority is exercised through responsible leadership and strengthened through faithful communication.
 
-Information, truth, concerns, correction, and wisdom shall be welcomed from every level of the organization.
+Leaders shall actively seek truth, welcome respectful correction, encourage meaningful dialogue, and remain attentive to those entrusted to their care.
 
-Leaders shall actively listen to those entrusted to their leadership.
-
-Listening strengthens stewardship and never diminishes constitutional authority.
+Faithful listening strengthens stewardship without diminishing constitutional authority.
 
 ---
 
@@ -72,131 +76,152 @@ Every steward remains accountable:
 
 - to the Constitution;
 - to the Mission;
-- to those who entrusted them with authority;
-- and to those entrusted to their care.
+- to those who entrusted them with authority; and
+- to those entrusted to their care.
 
-No delegated authority may override the Constitution.
-
----
-
-# Constitutional Sequence
-
-Governance within FlashRides shall always follow this constitutional order:
-
-1. The Constitution establishes authority.
-2. Authority is delegated through stewardship.
-3. Stewardship exercises authority faithfully.
-4. Accountability preserves constitutional integrity.
+No exercise of delegated authority may conflict with or override the Constitution.
 
 ---
 
-# Architectural Boundaries
+## Constitutional Stewardship
 
-The Governance Framework does not:
+Governance is an exercise of stewardship rather than positional power.
 
-- define the Mission;
-- establish Organizational Axioms;
-- define Core Values;
-- establish the Constitutional Decision Framework;
-- interpret constitutional meaning;
-- amend the Constitution;
-- establish operational reporting structures or organizational charts.
-
-Its purpose is solely to govern the constitutional exercise of organizational authority.
+Authority exists to preserve the Constitution, fulfill the Mission, strengthen organizational trust, and faithfully serve those entrusted to FlashRides.
 
 ---
 
-# Constitutional Failure Mode
+# 4. Organizational Impact
 
-Without the Governance Framework:
+The Governance Framework establishes a consistent philosophy for exercising authority throughout FlashRides.
 
-- authority becomes disconnected from the Constitution;
-- delegation becomes confused with independence;
-- accountability becomes inconsistent;
-- leadership becomes positional rather than constitutional;
-- organizational trust deteriorates through inconsistent stewardship.
+It strengthens organizational trust by ensuring that authority remains accountable, stewardship remains faithful, and leadership remains constitutionally grounded.
+
+By defining governance as stewardship rather than position, the framework promotes humility, accountability, transparency, and faithful service across every level of the organization.
 
 ---
 
-# Constitutional Evidence
+# 5. Relationship to Other Constitutional Artifacts
 
-The Governance Framework emerged through constitutional discovery that distinguished governance from constitutional decision-making and constitutional amendment.
+## Relationship to the Organization Constitution
 
-Discovery demonstrated that:
+The Governance Framework derives its authority from the Organization Constitution and exists as a subordinate constitutional artifact.
 
-- authority must originate from the Constitution;
-- authority must be delegated through stewardship;
-- accountability must remain attached to delegated authority;
-- leadership must listen as faithfully as it leads.
-
-These discoveries established stewardship as the constitutional foundation of governance.
+While the Constitution establishes organizational authority, the Governance Framework defines how that authority is exercised and preserved.
 
 ---
 
-# Constitutional Traceability
+## Relationship to the Mission Statement
 
-**Derived From**
+The Mission defines why FlashRides exists.
 
-- GOV-CON-010 — Organization Constitution
-- GOV-CON-020 — Mission Statement
-- GOV-CON-030 — Vision Statement
-- GOV-CON-040 — Core Values
-- GOV-CON-050 — Organizational Axioms
-- GOV-CON-060 — Constitutional Decision Framework
+The Governance Framework ensures that organizational authority is exercised in faithful pursuit of that Mission.
 
 ---
 
-# Constitutional Influence
+## Relationship to the Vision Statement
 
-This framework governs:
+The Vision describes what FlashRides aspires to become.
 
-- constitutional authority;
-- leadership stewardship;
-- delegated responsibility;
-- organizational accountability;
-- governance throughout FlashRides.
+The Governance Framework helps ensure that leadership remains faithful while pursuing that aspiration.
 
 ---
 
-# Constitutional Dependencies
+## Relationship to the Core Values
 
-Depends Upon:
+The Core Values define the enduring character expected of every member of FlashRides.
 
-- Organization Constitution
-- Mission Statement
-- Vision Statement
-- Core Values
-- Organizational Axioms
-- Constitutional Decision Framework
+The Governance Framework provides the constitutional environment in which those values are exercised through leadership and stewardship.
 
-Supports:
+---
 
-- Constitutional Interpretation Framework
+## Relationship to the Organizational Axioms
+
+The Organizational Axioms preserve enduring truth.
+
+The Governance Framework ensures that governance remains grounded in those truths.
+
+---
+
+## Relationship to the Guiding Principles
+
+The Guiding Principles establish the enduring philosophy of leadership.
+
+The Governance Framework provides the constitutional structure through which that philosophy is exercised.
+
+---
+
+## Relationship to the Constitutional Decision Framework
+
+The Constitutional Decision Framework establishes the methodology for constitutional judgment.
+
+The Governance Framework establishes how authority exercises and implements those decisions throughout the organization.
+
+---
+
+## Constitutional Integrity
+
+Each constitutional artifact has one primary constitutional responsibility and serves as the authoritative source for that responsibility.
+
+Together, the constitutional artifacts provide a complete and coherent framework defining the identity, purpose, aspiration, character, truth, leadership philosophy, constitutional methodology, governance, and stewardship of FlashRides while avoiding unnecessary duplication.
+
+---
+
+# 6. Maintenance
+
+## Purpose
+
+The Governance Framework shall be maintained as the authoritative constitutional artifact defining how constitutional authority is exercised, delegated, and stewarded throughout FlashRides.
+
+---
+
+## Stewardship
+
+The Governance Framework shall be maintained under the authority of the Organization Constitution.
+
+The Organization Owner retains constitutional authority over the Governance Framework, while the Organization Steward is responsible for preserving its clarity, integrity, and constitutional consistency.
+
+---
+
+## Review
+
+The Governance Framework should be reviewed periodically to confirm it continues to faithfully express the constitutional philosophy of governance.
+
+Periodic review does not imply revision.
+
+Changes should occur only when necessary to preserve constitutional consistency or more faithfully express the enduring governance philosophy of FlashRides.
+
+---
+
+## Constitutional Evolution
+
+Any modification to the Governance Framework shall occur exclusively through the Constitutional Amendment Framework.
+
+Constitutional evolution should be deliberate, infrequent, and consistent with the identity, purpose, philosophy, and governance established by the Organization Constitution.
+
+---
+
+## Constitutional Integrity
+
+The Governance Framework shall remain timeless and focused exclusively on defining the constitutional exercise of authority, delegated stewardship, accountability, and governance.
+
+Responsibilities assigned to other constitutional artifacts shall not be duplicated within the Governance Framework.
+
+---
+
+# 7. Navigation
+
+The Governance Framework follows the Constitutional Decision Framework and serves as the constitutional artifact defining how constitutional authority is exercised throughout FlashRides.
+
+Readers seeking to understand the methodology for constitutional judgment should refer to the Constitutional Decision Framework.
+
+Readers seeking to understand the constitutional language used throughout the Governance Constitutional Layer should continue to the Constitutional Glossary.
+
+Additional constitutional guidance is provided through the following constitutional artifacts:
+
+- Constitutional Glossary
 - Constitutional Amendment Framework
-- All governance, operational, and strategic artifacts
+
+Together, these constitutional artifacts form a unified constitutional framework defining the identity, purpose, aspiration, character, truth, leadership philosophy, constitutional methodology, governance, stewardship, and constitutional evolution of FlashRides.
 
 ---
-
-# Constitutional Stewardship
-
-Future amendments shall preserve the constitutional principle that all authority derives from the Constitution and is exercised through delegated stewardship.
-
-Governance shall remain an exercise of constitutional stewardship rather than positional power.
-
----
-
-# Constitutional Status
-
-**Provisionally Complete**
-
-This artifact shall remain provisionally complete until future constitutional discovery identifies additional governance responsibilities not addressed by the current framework.
-
----
-
-# Constitutional Summary
-
-The Governance Framework establishes the constitutional philosophy of leadership within FlashRides.
-
-Authority originates from the Constitution, is delegated through stewardship, remains accountable throughout its delegation, and is exercised through leaders who faithfully listen as well as lead.
-
-By grounding authority in stewardship rather than position, the Governance Framework preserves constitutional integrity while fostering a culture of trust, accountability, and faithful leadership throughout the organization.
