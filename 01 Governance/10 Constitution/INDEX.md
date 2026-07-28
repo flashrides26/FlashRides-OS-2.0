@@ -10,12 +10,12 @@
 | Title | Constitution Index |
 | Artifact Type | INDEX |
 | Publication Order | 002 |
-| Version | 2.0 |
+| Version | 2.1 |
 | Status | Approved |
 | Owner | Executive Leadership |
 | Steward | Repository Governance |
 | Repository Location | 01 Governance / 10 Constitution |
-| Effective Date | 2026-07-21 |
+| Effective Date | 2026-07-27 |
 | Review Cycle | As Required |
 
 ---
@@ -24,13 +24,21 @@
 
 This INDEX provides the authoritative navigation for the Constitution section of FlashRides OS.
 
-The Constitution establishes the enduring identity, purpose, principles, and governance philosophy of the organization.
+The Constitution establishes the enduring identity, purpose, principles, governance framework, and constitutional philosophy of the organization.
 
-Each constitutional artifact addresses a single constitutional responsibility while collectively forming the governing foundation of FlashRides.
+Each constitutional artifact addresses a distinct constitutional responsibility while collectively forming the authoritative constitutional foundation of FlashRides.
 
 ---
 
-# 2. Constitutional Structure
+# 2. Constitutional Role
+
+This INDEX serves as the authoritative navigation and organizational map for the Constitution section.
+
+It establishes the approved reading order, identifies constitutional relationships, and preserves the structural integrity of the constitutional repository.
+
+---
+
+# 3. Constitutional Structure
 
 | Order | Artifact | Purpose |
 |------:|----------|---------|
@@ -38,17 +46,17 @@ Each constitutional artifact addresses a single constitutional responsibility wh
 | 020 | Mission Statement | Defines the organization's purpose and reason for existence. |
 | 030 | Vision Statement | Describes the future state the organization seeks to achieve. |
 | 040 | Core Values | Defines the enduring values that guide organizational behavior and culture. |
-| 050 | Guiding Principles | Establishes the principles used to guide organizational decisions. |
+| 050 | Guiding Principles | Establishes the enduring principles that guide organizational decision-making. |
 | 060 | Governance Framework | Defines the organizational governance model and constitutional hierarchy. |
 
 ---
 
-# 3. Reading Sequence
+# 4. Reading Sequence
 
 Readers should review the Constitution in the following order:
 
-1. README
-2. INDEX
+1. Constitution README
+2. Constitution INDEX
 3. Organization Constitution
 4. Mission Statement
 5. Vision Statement
@@ -56,21 +64,21 @@ Readers should review the Constitution in the following order:
 7. Guiding Principles
 8. Governance Framework
 
-This sequence progresses from organizational identity to organizational governance.
+This sequence progresses from constitutional orientation through organizational identity and finally to constitutional governance.
 
 ---
 
-# 4. Constitutional Relationships
+# 5. Constitutional Relationships
 
-The Constitution serves as the highest level of organizational governance within FlashRides OS.
+The Constitution serves as the highest level of organizational authority within FlashRides OS.
 
-All subordinate repository sections shall align with the constitutional principles established in this section.
+All subordinate repository sections shall operate in accordance with the constitutional principles established within this section.
 
-The Constitution provides organizational direction but does not prescribe detailed operational, technical, or administrative requirements.
+The Constitution establishes enduring organizational authority while delegating operational, technical, and administrative requirements to subordinate repository sections.
 
 ---
 
-# 5. Related Repository Artifacts
+# 6. Related Repository Artifacts
 
 This section is supported by:
 
@@ -82,19 +90,30 @@ This section is supported by:
 
 ---
 
-# 6. Maintenance
+# 7. Maintenance
 
 This INDEX shall be maintained by Repository Governance.
 
 It shall be reviewed whenever constitutional artifacts are added, retired, reorganized, or significantly revised.
 
+The reading sequence and constitutional relationships shall remain synchronized with the repository structure.
+
 ---
 
-# 7. Navigation
+# 8. Navigation
 
 **Previous Artifact**
 
 001 — Constitution README
+
+**Artifacts in this Section**
+
+- 010 — Organization Constitution
+- 020 — Mission Statement
+- 030 — Vision Statement
+- 040 — Core Values
+- 050 — Guiding Principles
+- 060 — Governance Framework
 
 **Next Artifact**
 
