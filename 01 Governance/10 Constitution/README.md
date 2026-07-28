@@ -10,12 +10,12 @@
 | Title | Constitution |
 | Artifact Type | README |
 | Publication Order | 001 |
-| Version | 2.0 |
+| Version | 2.1 |
 | Status | Approved |
 | Owner | Executive Leadership |
 | Steward | Repository Governance |
 | Repository Location | 01 Governance / 10 Constitution |
-| Effective Date | 2026-07-21 |
+| Effective Date | 2026-07-27 |
 | Review Cycle | As Required |
 
 ---
@@ -24,13 +24,23 @@
 
 The Constitution establishes the foundational identity and governing philosophy of FlashRides.
 
-It defines the organization's enduring purpose, mission, vision, values, guiding principles, and governance framework. These artifacts provide the constitutional foundation from which all organizational policies, standards, procedures, and operational practices are derived.
+It defines the organization's enduring purpose, mission, vision, values, guiding principles, governance framework, and constitutional philosophy. These artifacts provide the constitutional foundation from which all organizational policies, standards, procedures, and operational practices are derived.
 
 The Constitution represents the highest level of organizational governance within FlashRides OS.
 
 ---
 
-# 2. Scope
+# 2. Constitutional Role
+
+The Constitution serves as the authoritative foundation of FlashRides OS.
+
+It establishes the enduring constitutional principles from which governance, organizational structure, operational standards, and repository artifacts derive their authority.
+
+No subordinate artifact may conflict with the Constitution.
+
+---
+
+# 3. Scope
 
 This section applies to the organization as a whole.
 
@@ -40,7 +50,7 @@ The Constitution does not define detailed operational requirements. Those requir
 
 ---
 
-# 3. Objectives
+# 4. Objectives
 
 The Constitution exists to:
 
@@ -53,9 +63,9 @@ The Constitution exists to:
 
 ---
 
-# 4. Constitutional Hierarchy
+# 5. Constitutional Hierarchy
 
-The Constitution provides the highest level of organizational guidance.
+The Constitution provides the highest level of organizational authority.
 
 Artifacts within this section establish the foundation upon which organizational governance is built.
 
@@ -63,7 +73,7 @@ Subordinate repository artifacts shall align with the constitutional principles 
 
 ---
 
-# 5. Section Organization
+# 6. Section Organization
 
 The Constitution is organized into the following controlled artifacts.
 
@@ -78,27 +88,27 @@ The Constitution is organized into the following controlled artifacts.
 
 ---
 
-# 6. Relationship to Other Repository Sections
+# 7. Relationship to Other Repository Sections
 
 The Constitution establishes the foundational principles for the entire organization.
 
-Governance, Business, Operations, Technology, People, Fleet, Safety, Customer, Projects, and Shared Resources shall operate in a manner consistent with the constitutional foundation established in this section.
+Governance, Business, Operations, Technology, People, Fleet, Safety, Customer, Projects, and Shared Resources shall operate in accordance with the constitutional principles established within this section.
 
 ---
 
-# 7. Governance Philosophy
+# 8. Governance Philosophy
 
-The Constitution is intended to remain stable over time.
+The Constitution provides stable governance while deliberately evolving to improve its quality, increase its clarity, and adapt to legitimate organizational, operational, technological, or regulatory changes.
 
-While it may evolve through approved organizational governance, constitutional artifacts should change infrequently and only when necessary to reflect significant organizational evolution.
+Constitutional evolution shall preserve constitutional integrity, coherence, and authority.
 
-Operational practices may change regularly.
+Operational practices may evolve frequently.
 
-Constitutional principles should endure.
+Constitutional principles shall evolve deliberately and infrequently.
 
 ---
 
-# 8. Related Repository Artifacts
+# 9. Related Repository Artifacts
 
 This section is supported by:
 
@@ -110,7 +120,7 @@ This section is supported by:
 
 ---
 
-# 9. Maintenance
+# 10. Maintenance
 
 This README shall be maintained by Repository Governance.
 
@@ -118,7 +128,7 @@ It shall be reviewed whenever the Constitution section undergoes significant org
 
 ---
 
-# 10. Navigation
+# 11. Navigation
 
 **Previous Artifact**
 
