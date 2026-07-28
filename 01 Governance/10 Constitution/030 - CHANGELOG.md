@@ -52,3 +52,62 @@ and long-term constitutional stewardship while preserving the original constitut
 ### Status
 
 Ratified Constitutional Architecture.
+
+
+## Unreleased
+
+### Planned Architectural Enhancements
+
+#### Constitutional Publication Order Review
+
+Following completion of the initial Constitutional Architecture Review (CAR) cycle, an opportunity was identified to further improve the conceptual flow of the constitutional publication order.
+
+The current publication sequence is:
+
+```
+070 Governance Framework
+080 Constitutional Interpretation Framework
+090 Constitutional Glossary
+100 Constitutional Decision Framework
+110 Constitutional Amendment Framework
+```
+
+A future constitutional revision may evaluate reordering these artifacts to better reflect the logical progression from constitutional meaning to organizational action:
+
+```
+070 Constitutional Interpretation Framework
+080 Constitutional Glossary
+090 Constitutional Decision Framework
+100 Governance Framework
+110 Constitutional Amendment Framework
+```
+
+This proposed refinement would produce the conceptual constitutional progression:
+
+```
+Constitutional Authority
+        ↓
+Organizational Purpose
+        ↓
+Organizational Aspiration
+        ↓
+Organizational Character
+        ↓
+Enduring Truth
+        ↓
+Leadership Philosophy
+        ↓
+Constitutional Interpretation
+        ↓
+Constitutional Language
+        ↓
+Constitutional Judgment
+        ↓
+Exercise of Constitutional Authority
+        ↓
+Constitutional Evolution
+```
+
+This enhancement has been intentionally deferred to preserve stable artifact identifiers, filenames, cross-references, and repository continuity during the initial publication of the Governance Constitution.
+
+The existing publication order remains authoritative until such time as a formal constitutional amendment is approved through the Constitutional Amendment Framework.
