@@ -1,4 +1,4 @@
-# Constitutional Amendment Framework
+# GOV-CON-110 — Constitutional Amendment Framework
 
 ---
 
@@ -8,68 +8,72 @@
 |---|---|
 | Artifact ID | GOV-CON-110 |
 | Title | Constitutional Amendment Framework |
-| Artifact Type | Constitutional Governance |
-| Publication Order | 090 |
-| Version | 1.0 |
-| Status | Draft |
-| Owner | Executive Leadership |
-| Steward | Repository Governance |
-| Repository Location | 01 Governance / 20 Constitutional Governance |
-| Effective Date | TBD |
-| Review Cycle | As Required |
+| Artifact Type | Constitutional Artifact |
+| Publication Order | 110 |
+| Version | 1.1 |
+| Status | Approved Baseline |
+| Constitutional Authority | GOV-CON-001 — Organization Constitution |
+| Effective Date | 2026-07-28 |
+| Review Cycle | Periodic Constitutional Review |
 
 ---
 
 # 1. Purpose
 
-This artifact establishes the constitutional framework governing amendments to the FlashRides Constitution.
+The Constitutional Amendment Framework establishes the enduring principles governing how the FlashRides Constitution may be deliberately modified while preserving its constitutional authority, integrity, coherence, and long-term stability.
 
-It defines the principles, responsibilities, processes, and safeguards that ensure the Constitution evolves deliberately while preserving its integrity, coherence, authority, and long-term effectiveness.
+It provides the constitutional methodology through which the Constitution evolves without compromising the organizational identity, purpose, philosophy, governance, or constitutional continuity established by the Organization Constitution.
 
----
-
-# 2. Discovery
-
-A stable Constitution must also be capable of deliberate evolution.
-
-Without a constitutional amendment framework, governance becomes either inflexible or inconsistent. This framework provides the controlled mechanism through which constitutional change may occur while preserving constitutional continuity.
+Constitutional amendment exists to preserve the Constitution's ability to govern faithfully through deliberate evolution rather than continual change.
 
 ---
 
-# 3. Constitutional Question
+# 2. Constitutional Responsibility
 
-**How shall the FlashRides Constitution evolve while preserving its constitutional authority, integrity, coherence, and long-term stability?**
+The Constitutional Amendment Framework is the authoritative constitutional artifact defining the enduring principles governing constitutional amendment.
 
----
+It derives its authority from the Organization Constitution and shall remain consistent with the constitutional identity, purpose, philosophy, interpretation, governance, and constitutional language established therein.
 
-# 4. Definition
-
-A constitutional amendment is a formally approved modification to one or more constitutional artifacts.
-
-Amendments shall follow a controlled governance process that ensures every constitutional change is justified, reviewed, ratified, implemented, and restored throughout the constitutional ecosystem.
+The Constitutional Amendment Framework governs how constitutional authority may be modified while preserving constitutional integrity. It does not replace constitutional interpretation, organizational judgment, or governance.
 
 ---
 
-# 5. Constitutional Principles
+# 3. Constitutional Amendment Framework
 
 ## Constitutional Stability and Evolution
 
-The Constitution shall provide stable organizational governance while deliberately evolving to improve its quality, increase its clarity, and adapt to legitimate organizational, operational, technological, or regulatory changes.
+The Constitution shall provide stable organizational governance while remaining capable of deliberate constitutional evolution.
 
-Constitutional amendments shall occur infrequently and only through approved governance.
+Constitutional amendment shall preserve continuity while allowing the Constitution to improve its clarity, coherence, and long-term effectiveness as the governing authority of FlashRides.
+
+Constitutional amendments should occur infrequently and only when necessary to preserve or improve the constitutional system.
+
+---
+
+## Primacy of Constitutional Interpretation
+
+Constitutional amendment shall not be used when faithful constitutional interpretation can reasonably resolve the constitutional concern.
+
+Before proposing constitutional modification, every reasonable effort shall be made to determine whether the matter may be resolved through the Constitutional Interpretation Framework.
+
+Interpretation clarifies constitutional meaning.
+
+Amendment modifies constitutional authority.
+
+These constitutional responsibilities shall remain distinct.
 
 ---
 
 ## Constitutional Justification
 
-Every proposed amendment shall include documented constitutional justification.
+Every proposed constitutional amendment shall include documented constitutional justification.
 
-The justification shall explain:
+The justification shall clearly explain:
 
-- why the amendment is necessary;
-- what constitutional concern is being addressed;
-- why existing constitutional guidance is insufficient; and
-- how the amendment improves the constitutional system.
+- why constitutional modification is necessary;
+- why existing constitutional guidance is insufficient;
+- why faithful constitutional interpretation cannot reasonably resolve the concern; and
+- how the proposed amendment improves the constitutional system.
 
 ---
 
@@ -77,7 +81,9 @@ The justification shall explain:
 
 The responsibility for demonstrating the necessity of constitutional change rests entirely with the proposer.
 
-Existing constitutional guidance shall remain authoritative until sufficient justification for change has been established.
+Existing constitutional authority shall remain authoritative until sufficient constitutional justification for amendment has been established.
+
+Constitutional change shall never be presumed necessary merely because alternative approaches are available.
 
 ---
 
@@ -85,187 +91,283 @@ Existing constitutional guidance shall remain authoritative until sufficient jus
 
 Every amendment proposal shall undergo procedural admission before constitutional review.
 
-Admission verifies that required documentation has been provided and that the proposal satisfies established procedural requirements.
-
-Admission shall not evaluate constitutional merit.
-
----
-
-## Constitutional Neutrality
-
-The Constitutional Steward shall remain procedurally neutral when admitting constitutional amendment proposals.
+Procedural admission confirms that the amendment proposal satisfies established constitutional requirements for review.
 
 Admission evaluates procedural completeness rather than constitutional merit.
 
-Evaluation of constitutional merit belongs exclusively to Constitutional Review.
+Incomplete proposals shall not proceed to constitutional review.
+
+---
+
+## Procedural Neutrality
+
+The Organization Steward shall remain procedurally neutral when admitting constitutional amendment proposals.
+
+Admission confirms procedural readiness without evaluating the constitutional desirability of the proposed amendment.
+
+Evaluation of constitutional merit belongs exclusively to constitutional review and ratification.
 
 ---
 
 ## Amendment Classification
 
-Every constitutional amendment shall be classified according to its constitutional impact.
+Every constitutional amendment shall be classified according to its constitutional significance.
 
-Classifications may include:
+Constitutional classifications include:
 
-- Administrative Maintenance
-- Clarification
-- Enhancement
-- Structural Change
-- Constitutional Revision
+### Administrative Maintenance
 
-The assigned classification shall correspond to the amendment's scope and significance.
+Administrative improvements that do not modify constitutional meaning.
 
----
+Examples include typographical corrections, formatting improvements, metadata corrections, and cross-reference updates.
 
-## Administrative Maintenance
-
-Administrative changes that do not alter constitutional meaning may follow a simplified amendment process while remaining subject to constitutional governance.
-
-Examples include:
-
-- typographical corrections;
-- formatting improvements;
-- cross-reference updates;
-- metadata corrections; and
-- repository maintenance.
-
-Administrative maintenance shall never modify constitutional intent.
+Administrative Maintenance shall never modify constitutional intent or constitutional authority.
 
 ---
 
-## Constitutional Restoration
+### Clarification
 
-An approved constitutional amendment shall conclude with the restoration of constitutional consistency throughout the constitutional ecosystem.
+An amendment that expresses existing constitutional meaning more clearly without changing constitutional authority.
 
-Restoration includes updating:
-
-- affected constitutional artifacts;
-- derivative artifacts;
-- repository indexes;
-- README artifacts;
-- templates;
-- cross-references;
-- provenance records;
-- change history; and
-- supporting documentation.
-
-Constitutional restoration is complete only when the constitutional ecosystem once again functions as a single, coherent, consistent, and authoritative constitutional system.
+Clarifications improve understanding while preserving the Constitution's existing intent.
 
 ---
 
-# 6. Constitutional Roles
+### Substantive Amendment
 
-| Role | Responsibility |
-|---|---|
-| Proposer | Identifies the constitutional need, prepares the amendment proposal, and provides constitutional justification. |
-| Constitutional Steward | Verifies procedural completeness and admits proposals for constitutional review. |
-| Constitutional Review | Evaluates constitutional merit and architectural impact. |
-| Ratifying Authority | Approves or rejects constitutional amendments. |
-| Implementation Steward(s) | Implement approved amendments and restore constitutional consistency. |
+An amendment that intentionally modifies constitutional meaning, constitutional responsibility, or constitutional authority.
+
+Substantive amendments require clear constitutional justification because they alter the governing Constitution itself.
 
 ---
 
-# 7. Constitutional Amendment Proposal Requirements
+### Structural Amendment
 
-Every amendment proposal shall include:
-
-- Constitutional Question
-- Proposed Amendment
-- Amendment Classification
-- Constitutional Justification
-- Impact Assessment
-- Constitutional Artifacts Affected
-- Derivative Artifacts Affected
-- Constitutional Restoration Plan
-
-Incomplete proposals shall not proceed to Constitutional Review.
+An amendment that modifies the constitutional architecture through the addition, removal, division, consolidation, or reorganization of constitutional artifacts while preserving overall constitutional integrity.
 
 ---
 
-# 8. Constitutional Amendment Lifecycle
+### Comprehensive Revision
 
-The constitutional amendment process shall follow the sequence below.
+A coordinated amendment affecting multiple constitutional artifacts or materially revising significant portions of the constitutional system.
 
-1. Opportunity Identified
-2. Constitutional Discovery
-3. Proposal
-4. Constitutional Justification
-5. Procedural Admission
-6. Constitutional Review
-7. Ratification
-8. Implementation
-9. Constitutional Restoration
-
-Each stage shall be completed before proceeding to the next.
+Comprehensive revisions require careful constitutional review to preserve the integrity and coherence of the Constitution as a unified whole.
 
 ---
 
-# 9. Architectural Boundaries
+## Constitutional Amendment Methodology
 
-This framework governs constitutional amendments only.
+Constitutional amendment shall proceed according to the following methodology:
 
-It does not prescribe operational change management, project management, software version control, or administrative document maintenance beyond constitutional governance.
+### Constitutional Concern
 
----
+Identify the constitutional concern requiring evaluation.
 
-# 10. Failure Mode
-
-Failure to govern constitutional amendments may result in:
-
-- conflicting constitutional authority;
-- inconsistent governance;
-- constitutional ambiguity;
-- architectural fragmentation;
-- diminished constitutional trust; or
-- loss of repository integrity.
+The concern shall be stated clearly enough to determine whether constitutional interpretation or constitutional amendment is appropriate.
 
 ---
 
-# 11. Evidence
+### Amendment Proposal
 
-Constitutional amendments shall produce sufficient evidence to demonstrate:
-
-- constitutional justification;
-- procedural compliance;
-- constitutional review;
-- ratification;
-- implementation; and
-- constitutional restoration.
+Prepare a constitutional amendment proposal describing the proposed constitutional modification, constitutional justification, amendment classification, and anticipated constitutional impact.
 
 ---
 
-# 12. Traceability
+### Procedural Admission
 
-Every constitutional amendment shall maintain complete traceability between:
-
-- originating constitutional concern;
-- amendment proposal;
-- constitutional review;
-- ratification;
-- affected artifacts;
-- implementation activities; and
-- restoration activities.
+Verify that the amendment proposal satisfies established procedural requirements before constitutional review begins.
 
 ---
 
-# 13. Stewardship
+### Constitutional Review
 
-Repository Governance serves as the Constitutional Steward for this framework.
-
-Executive Leadership retains constitutional authority for amendment ratification unless delegated through approved governance.
+Evaluate the proposed amendment for constitutional consistency, architectural integrity, organizational impact, and long-term constitutional stewardship.
 
 ---
 
-# 14. Status
+### Ratification
 
-This artifact establishes the authoritative constitutional process governing amendment of the FlashRides Constitution.
+A constitutional amendment shall become authoritative only after approval by the Organization Owner or by constitutional authority properly delegated under the Organization Constitution.
 
 ---
 
-# 15. Summary
+### Implementation
 
-The purpose of constitutional amendment is not merely to modify the FlashRides Constitution, but to preserve its ability to govern through deliberate evolution.
+Approved constitutional amendments shall be faithfully incorporated into the constitutional artifacts affected by the amendment.
 
-Every amendment shall conclude with the restoration of constitutional consistency, ensuring that the Constitution and its supporting ecosystem continue to function as a single, coherent, and authoritative constitutional system.
+Implementation shall preserve constitutional consistency throughout the governing Constitution.
+
+---
+
+### Constitutional Restoration
+
+Every constitutional amendment shall conclude with restoration of constitutional consistency throughout the constitutional ecosystem.
+
+Constitutional restoration confirms that the amended Constitution once again functions as a coherent, internally consistent, and authoritative constitutional system.
+
+An amendment shall not be considered complete until constitutional restoration has been achieved.
+# 4. Organizational Impact
+
+The Constitutional Amendment Framework preserves the long-term stability of the FlashRides Constitution by ensuring that constitutional evolution occurs deliberately, consistently, and under established constitutional authority.
+
+It protects the Constitution from arbitrary or inconsistent modification while allowing the constitutional system to mature in response to legitimate organizational needs.
+
+By requiring constitutional justification, faithful interpretation, procedural review, and constitutional restoration, the framework strengthens organizational trust, preserves institutional continuity, and safeguards the Constitution as the enduring governing authority of FlashRides.
+
+---
+
+# 5. Relationship to Other Constitutional Artifacts
+
+## Relationship to the Organization Constitution
+
+The Constitutional Amendment Framework derives its authority from the Organization Constitution and exists as a subordinate constitutional artifact.
+
+While the Organization Constitution establishes constitutional authority, this framework governs the process through which that authority may be deliberately modified.
+
+---
+
+## Relationship to the Mission Statement
+
+The Mission defines the enduring purpose of FlashRides.
+
+Constitutional amendments shall preserve and strengthen faithful fulfillment of that purpose unless the Mission itself is intentionally amended through this framework.
+
+---
+
+## Relationship to the Vision Statement
+
+The Vision defines the organization's enduring aspiration.
+
+Constitutional amendments shall preserve constitutional consistency while supporting the organization's continued pursuit of that aspiration.
+
+---
+
+## Relationship to the Core Values
+
+The Core Values define the enduring constitutional character of FlashRides.
+
+Constitutional amendments shall remain consistent with those values unless the Core Values themselves are intentionally amended through this framework.
+
+---
+
+## Relationship to the Organizational Axioms
+
+The Organizational Axioms preserve the enduring truths upon which the constitutional philosophy of FlashRides is founded.
+
+Constitutional amendments shall remain faithful to those truths unless the Organization intentionally adopts a constitutional revision of those axioms.
+
+---
+
+## Relationship to the Guiding Principles
+
+The Guiding Principles establish the enduring philosophy of leadership.
+
+Constitutional amendments shall preserve the integrity of that philosophy unless deliberate constitutional change is approved through this framework.
+
+---
+
+## Relationship to the Constitutional Interpretation Framework
+
+The Constitutional Interpretation Framework governs how constitutional meaning is faithfully determined.
+
+The Constitutional Amendment Framework modifies constitutional authority only when faithful interpretation cannot reasonably resolve the constitutional concern.
+
+Interpretation and amendment serve distinct constitutional responsibilities and shall never be used interchangeably.
+
+---
+
+## Relationship to the Constitutional Glossary
+
+The Constitutional Glossary defines the authoritative constitutional terminology used throughout the Constitution.
+
+Constitutional amendments shall preserve the consistency of constitutional language throughout the constitutional framework.
+
+Where constitutional terminology is intentionally modified, corresponding glossary definitions shall be amended through the same constitutional process.
+
+---
+
+## Relationship to the Constitutional Decision Framework
+
+The Constitutional Decision Framework governs how constitutional meaning is applied through organizational judgment.
+
+The Constitutional Amendment Framework governs how the Constitution itself is modified when deliberate constitutional change is required.
+
+Constitutional judgment applies the Constitution.
+
+Constitutional amendment changes the Constitution.
+
+---
+
+## Relationship to the Governance Framework
+
+The Governance Framework governs the exercise, delegation, accountability, and stewardship of constitutional authority.
+
+The Constitutional Amendment Framework governs how that constitutional authority may itself be deliberately modified while preserving constitutional integrity.
+
+---
+
+## Constitutional Integrity
+
+Each constitutional artifact has one primary constitutional responsibility and serves as the authoritative source for that responsibility.
+
+Together, the constitutional artifacts provide a complete and coherent framework defining the identity, purpose, aspiration, character, truth, leadership philosophy, constitutional interpretation, constitutional language, constitutional methodology, governance, and constitutional evolution of FlashRides while avoiding unnecessary duplication.
+
+---
+
+# 6. Maintenance
+
+## Purpose
+
+The Constitutional Amendment Framework shall be maintained as the authoritative constitutional artifact defining the enduring principles governing constitutional amendment.
+
+---
+
+## Stewardship
+
+The Constitutional Amendment Framework shall be maintained under the authority of the Organization Constitution.
+
+The Organization Owner retains constitutional authority over the Constitutional Amendment Framework, while the Organization Steward is responsible for preserving its clarity, integrity, and constitutional consistency.
+
+---
+
+## Review
+
+The Constitutional Amendment Framework should be reviewed periodically to confirm it continues to faithfully preserve the enduring principles governing constitutional amendment.
+
+Periodic review does not imply revision.
+
+Changes should occur only when necessary to preserve constitutional consistency or more faithfully express the enduring principles governing constitutional evolution.
+
+---
+
+## Constitutional Evolution
+
+Any modification to the Constitutional Amendment Framework shall occur exclusively through the Constitutional Amendment Framework.
+
+Constitutional evolution should be deliberate, infrequent, and consistent with the identity, purpose, philosophy, interpretation, governance, and constitutional language established by the Organization Constitution.
+
+---
+
+## Constitutional Integrity
+
+The Constitutional Amendment Framework shall remain timeless and focused exclusively on defining the enduring principles governing constitutional amendment.
+
+Responsibilities assigned to other constitutional artifacts shall not be duplicated within this framework.
+
+---
+
+# 7. Navigation
+
+The Constitutional Amendment Framework follows the Governance Framework and serves as the constitutional artifact defining how the FlashRides Constitution may be deliberately modified while preserving constitutional authority and integrity.
+
+Readers seeking to understand the constitutional authority from which amendment derives should refer to the Organization Constitution.
+
+Readers seeking to understand constitutional meaning before considering amendment should refer to the Constitutional Interpretation Framework.
+
+Readers seeking to understand the methodology for constitutional judgment should refer to the Constitutional Decision Framework.
+
+Readers seeking to understand how constitutional authority is exercised throughout the organization should refer to the Governance Framework.
+
+Together, these constitutional artifacts form a unified constitutional framework defining the identity, purpose, aspiration, character, truth, leadership philosophy, constitutional interpretation, constitutional language, constitutional methodology, governance, stewardship, and constitutional evolution of FlashRides.
 
 ---
