@@ -1,14 +1,20 @@
 # GOV-CON-020 — Mission Statement
 
-**Document ID:** GOV-CON-020  
-**Document Type:** Constitutional Artifact  
-**Title:** Mission Statement  
-**Version:** 1.0  
-**Status:** Approved Baseline  
-**Authority:** GOV-CON-001 — Organization Constitution  
-**Effective Date:** __________________  
-**Supersedes:** None  
-**Next Review:** Periodic Constitutional Review
+---
+
+## Artifact Information
+
+| Field | Value |
+|---|---|
+| Artifact ID | GOV-CON-020 |
+| Title | Mission Statement |
+| Artifact Type | Constitutional Artifact |
+| Publication Order | 020 |
+| Version | 1.1 |
+| Status | Approved Baseline |
+| Constitutional Authority | GOV-CON-001 — Organization Constitution |
+| Effective Date | 2026-07-27 |
+| Review Cycle | Periodic Constitutional Review |
 
 ---
 
@@ -28,7 +34,7 @@ The Mission Statement is the authoritative constitutional artifact defining the 
 
 It derives its authority from the Organization Constitution and shall remain consistent with the identity, authority, and governance established therein.
 
-The Mission serves as the foundation upon which the Vision Statement, Core Values, Organizational Axioms, Guiding Principles, Governance Framework, and all subordinate organizational documents are developed.
+The Mission serves as the foundation upon which the Vision Statement, Core Values, Organizational Axioms, Guiding Principles, Governance Framework, and all subordinate organizational artifacts are developed.
 
 ---
 
@@ -132,7 +138,7 @@ The Mission explains why FlashRides exists.
 
 The Organizational Axioms preserve the timeless truths that guide how the organization thinks, serves, and fulfills its Mission.
 
-The Axioms support the Mission without redefining or expanding it.
+The Organizational Axioms support the Mission without redefining or expanding it.
 
 ---
 
@@ -154,7 +160,7 @@ The Governance Framework provides the structures, responsibilities, and decision
 
 ## Constitutional Integrity
 
-Each constitutional artifact has one primary responsibility and serves as the authoritative source for its subject.
+Each constitutional artifact has one primary constitutional responsibility and serves as the authoritative source for that responsibility.
 
 Together, the constitutional artifacts provide a complete and coherent framework that defines the identity, purpose, philosophy, values, and governance of FlashRides while avoiding unnecessary duplication.
 
@@ -188,11 +194,11 @@ Changes should occur only when necessary to preserve constitutional truth or mai
 
 ---
 
-## Amendment
+## Constitutional Evolution
 
-Any modification to the Mission shall follow the organization's constitutional amendment process.
+Any modification to the Mission shall occur exclusively through the Constitutional Amendment Framework.
 
-Amendments should be deliberate, infrequent, and consistent with the identity, authority, and philosophy established by the Organization Constitution.
+Constitutional evolution should be deliberate, infrequent, and consistent with the identity, authority, and philosophy established by the Organization Constitution.
 
 ---
 
